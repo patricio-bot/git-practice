@@ -1,0 +1,3 @@
+name: patricio
+age: 48
+favorite color: black
